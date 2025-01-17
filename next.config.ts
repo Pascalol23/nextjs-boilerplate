@@ -1,7 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config optisosss here */
+  /* config optisossbko-asdnoasds here */
 };
 
 export default nextConfig;
